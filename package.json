@@ -1,0 +1,23 @@
+{
+  "name": "pairmaker",
+  "version": "1.0.0",
+  "description": "To create the pairs of the given list of names in the array",
+  "main": "pairMaker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Virusviren/pairMaker.git"
+  },
+  "keywords": [
+    "pair",
+    "teamMaker"
+  ],
+  "author": "Viren Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Virusviren/pairMaker/issues"
+  },
+  "homepage": "https://github.com/Virusviren/pairMaker#readme"
+}
