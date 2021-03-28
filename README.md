@@ -15,10 +15,10 @@ pairMaker(namesArray, boolean);
 
 ## Return
 
-nameArray = ["bob","tom","jerry","marley","mobile"]
-boolean = true
+nameArray = ["bob","tom","jerry","marley","mobile"]<br/>
+boolean = true<br/>
 return [["bob","jerry"],["tom","mobile"],["marley"]]
 
-nameArray = ["bob","tom","jerry","marley","mobile"]
-boolean = false
+nameArray = ["bob","tom","jerry","marley","mobile"]<br/>
+boolean = false<br/>
 return [["bob","jerry"],["tom","mobile","marley"]]
